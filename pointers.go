@@ -7,6 +7,10 @@ import "fmt"
 // Main function is the entry point of the any Project
 func main() {
 
+	// Declare a pointer variable
+	var s *int
+	fmt.Println(s)
+
 	/*
 		Example 1
 		Declared a variable with having some static value and modifying the value
@@ -43,4 +47,5 @@ func main() {
 	fmt.Println(*q)
 	// Verifying that address changes or it having same address
 	fmt.Println(q)
+
 }
