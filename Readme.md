@@ -1,0 +1,1 @@
+After completion of every program justRun gofmt filename it will lint the go files
