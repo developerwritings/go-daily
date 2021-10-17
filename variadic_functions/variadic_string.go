@@ -9,6 +9,6 @@ func main() {
 	vardiac_string_example("hello", "Good Morning")
 }
 
-func vardiac_string_example(num ...string) {
-	fmt.Println(num)
+func vardiac_string_example(str ...string) {
+	fmt.Println(str)
 }

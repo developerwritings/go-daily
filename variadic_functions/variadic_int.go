@@ -9,6 +9,6 @@ func main() {
 	vardiac_int_example(1, 4, 10)
 }
 
-func vardiac_int_example(num ...string) {
+func vardiac_int_example(num ...int) {
 	fmt.Println(num)
 }
