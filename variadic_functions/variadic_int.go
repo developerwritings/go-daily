@@ -6,7 +6,7 @@ package main
 import "fmt"
 
 func main() {
-	vardiac_int_example("1", "4", "10")
+	vardiac_int_example(1, 4, 10)
 }
 
 func vardiac_int_example(num ...string) {
