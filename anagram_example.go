@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-
+	var result string
 	str := "Silent"
 	str2 := "lisTen"
 

@@ -11,5 +11,3 @@ func main() {
 		fmt.Printf("cap %v, len %v, %p\n", len(s), s)
 	}
 }
-
-// len return the len of the array
