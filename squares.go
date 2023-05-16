@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, playground")
 	ch1 := make(chan int)
 
 	go test(1000, ch1)
